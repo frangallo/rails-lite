@@ -6,6 +6,8 @@ module Phase6
     def invoke_action(name)
       self.send(name)
       render(name) unless already_built_response?
+
+      nil
     end
   end
 end
