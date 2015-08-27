@@ -1,6 +1,6 @@
 # Rails Runner
 
-Rails Runner is a lightweight Ruby web framework inspired by the functionality of Ruby on Rails. It implements a MVC software pattern using Ruby Metaprogramming, dynamically generated routes, ERB template rendering, and parameter parsing. Written using TDD-style using RSpec.
+Rails Runner is a lightweight Ruby web framework inspired by the functionality of Ruby on Rails. It implements a MVC software pattern using Ruby Metaprogramming, dynamically generated routes, ERB template rendering, and parameter parsing. Written using TDD-style with RSpec.
 
 ## Implementation
 ### Controller
